@@ -7,7 +7,7 @@
       "string": ["me", "community"]
     },
     "score": {
-      "int":{ 
+      "real":{ 
         "min": 1,
         "max": 5
       }
