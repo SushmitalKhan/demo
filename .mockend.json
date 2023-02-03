@@ -4,16 +4,13 @@
       "items": 50
     },
     "category": {
-      "string": ["me", "commmunity"]
+      "string": ["me", "community"]
     },
     "score": {
       "int":{ 
         "min": 1,
-        "max": 5,
+        "max": 5
       }
-    }
-    "rating": {
-      "belongsTo": "Rating"
     }
   }
 }
