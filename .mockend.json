@@ -19,7 +19,7 @@
       }
     },
     "category": {
-      "string": ["one", "two", "three"]
+      "string": ["me", "community"]
     },
     "isDraft": {
       "boolean": {}
