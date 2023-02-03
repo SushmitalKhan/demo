@@ -12,5 +12,8 @@
         "max": 5,
       }
     }
+    "rating": {
+      "belongsTo": "Rating"
+    }
   }
 }
