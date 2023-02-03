@@ -1,7 +1,7 @@
 {
   "Post": {
     "_": {
-      "items": 1
+      "items": 80
     },
     "cover": {
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
@@ -25,7 +25,7 @@
       "boolean": {}
     },
     "views": {
-      "int": {
+      "float": {
         "min": 1,
         "max": 5
       }
